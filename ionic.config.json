@@ -1,0 +1,8 @@
+{
+  "name": "Firebase-Plot",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "84a8ccb2"
+}
